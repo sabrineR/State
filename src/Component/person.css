@@ -1,0 +1,10 @@
+.countainer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+.timer{
+    padding-top: 200px;
+}
